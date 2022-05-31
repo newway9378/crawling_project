@@ -1,0 +1,3 @@
+url: https://github.com/newway9378/crawling_project 
+학생1: 육한결 newway9378
+학생2: 이명준 myungjun02
